@@ -1,0 +1,92 @@
+
+body{
+    background-color: wheat;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.container-sm{
+    margin-top:20px; 
+    background-color: white;
+    width: 940px;
+    height: 582px;
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+.circle-1{
+    width:189px;
+    height:189px;
+    background-color:#cef66c;
+    border: 7px solid #cef66c;
+    border-radius: 500px;
+    margin-left:22rem;
+    z-index: 0;
+    
+    
+    
+}
+.circle-3{
+    width:78px;
+    height:78px;
+    background-color:#cef66c ;
+    border: 5px solid #cef66c ;
+    border-radius: 500px;
+    margin-left: 21rem;
+    margin-top: -208px;
+    z-index: 1;
+    position: absolute;
+    
+}
+
+.btn-success{
+    display: inline-block;
+    width: 150px;
+    margin-top: 127px;
+    margin-left: 368px;
+    border: 2px solid black;
+    color: black;
+    background-color: #cef66c;
+    font-weight: bold;
+    position: absolute;
+}
+
+.name-bar{
+    text-align: center;
+    margin-top: -8px;   
+}
+.name{
+    letter-spacing:5px;
+    margin-left: -20px;
+    word-spacing: 5px;
+    
+}
+.title-bar{
+    text-align: center;
+    margin-top: 8px;
+    font-weight: 500;   
+}
+.title{
+    letter-spacing: 7px;
+    font-size: 9px;
+    word-spacing: 5px; 
+   
+}
+
+.image{
+    width: 183px;
+    height: auto;
+    margin-left: 338px;
+    margin-top: -198px;
+    border-radius: 500px;  
+    display: inline; 
+    z-index: -1; 
+    
+}
+.fa-quote-right{
+    font-size: 30px;
+    color: white;
+    margin: 20px;
+    
+}
