@@ -90,6 +90,11 @@ body{
     margin: 20px;
     
 }
+.line{
+    border: 5px #cef66c solid;    /* burada yapmak istediğim yazının altına çizgi ama responsive olmadı diye bana sövme sakın  */
+    width: 200px;
+    margin-left: 1162px;
+}
 
 
 
